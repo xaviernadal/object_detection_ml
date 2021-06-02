@@ -1,0 +1,16 @@
+item { 
+	name:'pedra'
+	id:1
+}
+item { 
+	name:'paper'
+	id:2
+}
+item { 
+	name:'tisora'
+	id:3
+}
+item { 
+	name:'pistola'
+	id:4
+}

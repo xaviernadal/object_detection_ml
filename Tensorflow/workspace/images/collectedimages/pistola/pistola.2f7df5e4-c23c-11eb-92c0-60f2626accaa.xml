@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pistola</folder>
+	<filename>pistola.2f7df5e4-c23c-11eb-92c0-60f2626accaa.jpg</filename>
+	<path>/home/xavi_nadal/Uni/3r/PAIA/machine_l/extra/Tensorflow/workspace/images/collectedimages/pistola/pistola.2f7df5e4-c23c-11eb-92c0-60f2626accaa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>268</ymin>
+			<xmax>555</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
